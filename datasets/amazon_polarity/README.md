@@ -158,41 +158,43 @@ The Amazon reviews polarity dataset is constructed by Xiang Zhang (xiang.zhang@n
 
 #### Who are the source language producers?
 
-[Needs More Information]
+The reviews were written by Amazon customers.
 
 ### Annotations
 
+The dataset does not contain any additional annotations.
+
 #### Annotation process
 
-[Needs More Information]
+[N/A]
 
 #### Who are the annotators?
 
-[Needs More Information]
+[N/A]
 
 ### Personal and Sensitive Information
 
-[Needs More Information]
+All the reviews are anonymized.
 
 ## Considerations for Using the Data
 
 ### Social Impact of Dataset
 
-[Needs More Information]
+The purpose of this dataset is to help develop models that can classify long sentences of text into a binary label. It useful for models concerning tasks of setiment analysis or text analysis.
 
 ### Discussion of Biases
 
-[Needs More Information]
+The dataset can be considered nuetral and biasless, so the detection of any bias in the model results must be attributed to the model itself.
 
 ### Other Known Limitations
 
-[Needs More Information]
+There are no other known limitations.
 
 ## Additional Information
 
 ### Dataset Curators
 
-[Needs More Information]
+There is no additional information about the dataset curators.
 
 ### Licensing Information
 
